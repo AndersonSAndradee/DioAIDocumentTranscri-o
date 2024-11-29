@@ -10,7 +10,7 @@ Desenvolvi uma funcionalidade utilizando serviços Azure que permite transcrever
 ### Exemplo de Uso
 
 **Input:**
-![Input Image](DioAIDocumentTranscri-o/output.png)
+![Input Image](https://github.com/AndersonSAndradee/DioAIDocumentTranscri-o/blob/main/input.png)
 
 **Output:**
-![Output Image](path/para/sua/imagem_output.png)
+![Output Image](https://github.com/AndersonSAndradee/DioAIDocumentTranscri-o/blob/main/output.png)
